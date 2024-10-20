@@ -53,8 +53,5 @@ The simulation calculates the gravitational force between the sun and each plane
 ## License
 This project is open source and available under the [MIT License](LICENSE).
 
-## Acknowledgments
-This project is inspired by classical orbital mechanics and aims to visualize the beauty of celestial movements in a simplified form.
-
 ## Contact
 If you have questions, suggestions, or issues, please feel free to open an issue on the repository or reach out to me.
